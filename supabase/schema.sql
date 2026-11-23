@@ -1,0 +1,1 @@
+-- Placeholder: replace with Supabase schema definitions.
